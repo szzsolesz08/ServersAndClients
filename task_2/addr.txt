@@ -1,0 +1,3 @@
+host = oktnb147.inf.elte.hu 
+tcp_addr = 11224 
+udp_addr = 11235 
